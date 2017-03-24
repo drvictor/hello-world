@@ -1,0 +1,3 @@
+git init
+git log 
+git status tells you the files that have been changed since last commit
